@@ -1,0 +1,4 @@
+MAVEN
+    Maven es una herramienta que maneja tareas de administración de proyectos, compilación, generación de jar, documentación, distribución, construcción de dependencias, etc.
+    El mismo se encarga de descargar y mantener las dependencias de un proyecto mediante un archivo de configuración llamado "pom.xml". En este se coloca todo lo necesario para el proyecto y maven se encargará de manejarlo, liberando al desarrollador de esas tareas repetitivas.
+    Para obtener siempre las dependencias, se utilizan repositorios desde donde se bajan y luego quedan de manera local para su posterior utilización.

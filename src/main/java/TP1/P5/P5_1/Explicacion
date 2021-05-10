@@ -1,0 +1,4 @@
+Se crea un ServerSocket que se mantendrá escuchando en el puerto 15000 los mensajes enviados por un cliente.
+El Server socket utilizara un thread "Attend" para procesadar los mensajes que lleguen.
+
+En el otro lado, se crea un Socket(cliente) que enviará mensajes al puerto 15000. Los mensajes seran textos ingresados por consola por el usuario.

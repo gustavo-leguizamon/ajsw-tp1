@@ -1,0 +1,3 @@
+Modelar los tipos de edificios que sean restaurante y hotel. Describir qué problemas sepresentan.
+Que sucede si el mismo hotel tiene un restaurante? Que solución podría plantear ?
+    Para que el hotel tenga un restaurante, usaria composicion haciendo que el hotel este compuesto por un restaurante
