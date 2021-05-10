@@ -1,0 +1,5 @@
+Para subir el proyecto se debe crear un repositorio en Github y tomar la URL del mismo.
+Posteriormente, utilizar el comando Git clone y pasarle la URL copiada para clonar el repositorio a la maquina local.
+Luego, en el proyecto se pintaran de verde los archivos que sean nuevos para el repositorio, naranja los que ya se encuentren y hayan sido modificados y en rojo los que ya se encontraban y van a ser elimados.
+Utilizando el comando "commit", todos los archivos nuevos o modificados, persistiran sus cambios de manera local.
+Como paso siguiente se debe utilizar el comando "push" para que todos lo commits realizados se subar al repositorio online y puedan ser descargados por otros desarrolladores con el comando "pull".
